@@ -36,7 +36,7 @@
     "lodash": "^4.17.12",
     "method-override": "latest",
     "moment": "^2.19.3",
-    "mongoose": "^5.7.5",
+    "mongoose": "^5.11.7",
     "morgan": "latest",
     "npmconf": "^2.1.3",
     "optional": "^0.1.3",
