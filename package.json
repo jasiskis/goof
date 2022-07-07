@@ -35,7 +35,7 @@
     "jquery": "^3.4.0",
     "lodash": "^4.17.12",
     "method-override": "latest",
-    "moment": "^2.19.3",
+    "moment": "^2.29.4",
     "mongoose": "^5.7.5",
     "morgan": "latest",
     "npmconf": "^2.1.3",
